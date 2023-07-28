@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="get_started">Get Started</string>
+    <string name="stay_connected_with_your_friend_and_family">Stay Connected with your friend and family</string>
+    <string name="welcome_back">Welcome Back, </string>
+    <string name="aman">Aman!</string>
+    <string name="add_story">Add Story</string>
+    <string name="type_message">Type Message</string>
+</resources>
